@@ -1,9 +1,10 @@
 {
     "name": "react-theme-vscode",
     "displayName": "React Theme",
-    "description": "",
+    "description": "Theme based on React's website colors",
     "version": "1.0.1",
     "publisher": "mikaelkristiansson87",
+    "author": "Mikael Kristiansson <mikael.kristiansson87@gmail.com>",
     "icon": "icon.png",
     "repository": {
         "type": "git",
@@ -23,5 +24,10 @@
                 "path": "./themes/react-theme-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "react"
+    ]
 }
