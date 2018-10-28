@@ -4,6 +4,7 @@
     "description": "",
     "version": "1.0.0",
     "publisher": "mikaelkristiansson87",
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/mikaelkristiansson/react-theme-vscode"
