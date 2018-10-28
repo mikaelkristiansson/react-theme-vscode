@@ -4,6 +4,10 @@
     "description": "",
     "version": "1.0.0",
     "publisher": "mikaelkristiansson",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mikaelkristiansson/react-theme-vscode"
+    },
     "engines": {
         "vscode": "^1.28.0"
     },
