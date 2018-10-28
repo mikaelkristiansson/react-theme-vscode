@@ -162,7 +162,7 @@
 		},
 		{
 			"name": "variables",
-			"scope": "variable",
+			"scope": ["variable", "meta.jsx.children"],
 			"settings": {
 				"foreground": "#fff"
 			}
@@ -228,7 +228,7 @@
 			"scope": [
 				"support.class",
 				"support.class.component",
-				"meta.jsx.children",
+				//"meta.jsx.children",
 				"constant.numeric",
 				"punctuation.terminator.statement",
 				"support.variable.property.dom"
@@ -306,7 +306,8 @@
 				"punctuation",
 				"punctuation.definition.tag",
 				"punctuation.section.embedded",
-				"meta.tag",
+				//"meta.tag",
+				"meta.brace.round",
 				"meta.array.literal"
 			],
 			"settings": {
