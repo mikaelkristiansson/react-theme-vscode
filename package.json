@@ -1,0 +1,22 @@
+{
+    "name": "react-theme-vscode",
+    "displayName": "React Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "mikaelkristiansson",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "React Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/react-theme-color-theme.json"
+            }
+        ]
+    }
+}
