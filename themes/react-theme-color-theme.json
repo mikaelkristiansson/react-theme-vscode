@@ -241,7 +241,7 @@
 			"name": "Component",
 			"scope": [
 				"entity.other.inherited-class",
-				"entity.name.type.class",
+				"entity.name.type"
 			],
 			"settings": {
 				"foreground": "#fac863"
