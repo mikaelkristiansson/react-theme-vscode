@@ -2,7 +2,7 @@
     "name": "react-theme-vscode",
     "displayName": "React Theme",
     "description": "Theme based on React's website colors",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "mikaelkristiansson87",
     "author": "Mikael Kristiansson <mikael.kristiansson87@gmail.com>",
     "icon": "icon.png",
