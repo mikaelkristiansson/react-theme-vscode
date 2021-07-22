@@ -5,7 +5,8 @@
     "version": "1.0.4",
     "publisher": "mikaelkristiansson87",
     "author": "Mikael Kristiansson <mikael.kristiansson87@gmail.com>",
-    "icon": "icon.png",
+    "icon": "logo.png",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/mikaelkristiansson/react-theme-vscode"
